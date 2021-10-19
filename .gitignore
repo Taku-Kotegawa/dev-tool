@@ -1,4 +1,4 @@
 /drone
 /gitea
-/postgres
+/postgres/db-data
 /registry
